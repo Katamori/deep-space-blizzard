@@ -1,11 +1,14 @@
 {
     "regular": [
         "index",
-        "template"
+        "template",
+        "storylines",
+        "tony"
     ],
     "namespace": {
-        "alien_technology": [
-            "index"
+        "alien technology": [
+            "index",
+            "mothership"
         ]
     },
     "reserved": [
