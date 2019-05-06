@@ -1,2 +1,3 @@
-# deep-space-blizzard
-Wiki of Voidshard, a cyberpunk worldbuilding project of mine.
+# Deep Space Blizzard
+
+Wiki of Deep Space Blizzard, a cyberpunk worldbuilding project of mine.
