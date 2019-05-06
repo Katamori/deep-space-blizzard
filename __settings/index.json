@@ -3,7 +3,8 @@
         "index",
         "template",
         "storylines",
-        "tony"
+        "tony",
+        "jstest"
     ],
     "namespace": {
         "alien technology": [
