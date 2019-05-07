@@ -103,10 +103,10 @@ function loadConfig(jsonVal)
  * initialize
  */
 function initialize()
-{console.log(findArticle())
+{
     if (!findArticle()) {
         //alert("Could not find this article in index!");
-        window.location = "/404.html";
+        //window.location = "/404.html";
     }
 
     declareComputedGlobals(); // TODO: find a better way
