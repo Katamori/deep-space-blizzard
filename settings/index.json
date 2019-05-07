@@ -1,14 +1,26 @@
 {
     "regular": [
         "index",
-        "template",
+        "neon valley",
         "storylines",
+        "the blizzard",
+        "the zone",
         "tony"
     ],
     "namespace": {
         "alien technology": [
             "index",
             "mothership"
+        ],
+        "countries": [
+            "index"
+        ],
+        "timeline": [
+            "index",
+            "1989-2064",
+            "new age i",
+            "new age ii",
+            "starshift perid"
         ]
     },
     "reserved": [
