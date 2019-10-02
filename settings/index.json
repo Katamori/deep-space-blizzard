@@ -1,9 +1,11 @@
 {
     "regular": [
 		"index",
+		"blank empire",
 		"grepnovnik group",
 		"grepnovnik moles",
 		"neon valley",
+		"nordline",
 		"night stalkers",
 		"sanctuary",
 		"storylines",
@@ -14,7 +16,9 @@
     ],
     "namespace": {
         "alien technology": [
-            "index",
+			"index",
+			"electrohydraulics",
+			"frost",
             "mothership"
         ],
         "countries": [
