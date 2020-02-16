@@ -3,6 +3,7 @@
 		"index",
 		"blank empire",
 		"fort montevideo",
+		"frostwave",
 		"grepnovnik group",
 		"grepnovnik moles",
 		"lord function", 
@@ -17,10 +18,13 @@
 		"the ancient nation",
 		"the blizzard",
 		"the void shard",
-        "the zone",
+		"the zone",
         "tony"
     ],
     "namespace": {
+		"a billion sounds": [
+			"index"
+		],
         "alien technology": [
 			"index",
 			"electrohydraulics",
