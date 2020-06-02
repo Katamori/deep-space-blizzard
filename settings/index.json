@@ -1,6 +1,7 @@
 {
     "regular": [
-		"index",
+        "index",
+        "about",
         "blank empire",
         "coffee",
 		"fort montevideo",
@@ -11,7 +12,8 @@
         "melyavak forest",
         "meteor station",
 		"metrocenter",
-		"neon valley",
+        "neon valley",
+        "neon valley underground",
 		"night stalkers",
 		"nordline",
         "number station omega",
@@ -37,7 +39,8 @@
         "countries": [
 			"index",
 			"iceland",
-			"the junta"
+            "the junta",
+            "usa"
 		],
 		"neon anomaly": [
 			"index",
@@ -45,10 +48,11 @@
         ],
         "timeline": [
             "index",
+            "cold war",
             "1989-2064",
-            "new age I",
-            "new age II",
-            "starshift perid"
+            "new age 1",
+            "new age 2",
+            "starshift period"
         ]
     },
     "reserved": [
