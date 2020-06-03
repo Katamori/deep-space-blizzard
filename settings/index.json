@@ -4,10 +4,12 @@
         "about",
         "blank empire",
         "coffee",
+        "deepvoid",
 		"fort montevideo",
 		"frostwave",
 		"grepnovnik group",
-		"grepnovnik moles",
+        "grepnovnik moles",
+        "leaf valley plaza",
 		"lord function", 
         "melyavak forest",
         "meteor station",
@@ -24,17 +26,22 @@
 		"the blizzard",
 		"the void shard",
 		"the zone",
-        "tony"
+        "tony",
+        "voidgate",
     ],
     "namespace": {
 		"a billion sounds": [
 			"index"
 		],
         "alien technology": [
-			"index",
+            "index",
+            "antimatter drive",
 			"electrohydraulics",
-			"frost",
-            "mothership"
+            "frost",
+            "interceptor",
+            "mothership",
+            "ricochet",
+            "slingshot drive"
         ],
         "countries": [
 			"index",
