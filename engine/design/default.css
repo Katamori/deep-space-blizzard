@@ -64,7 +64,7 @@ img {
 /*
 article links are custom colored because purple url coloration is disgustin
 */
-a.article {
+a {
     color: #009adc;  
 }
 
