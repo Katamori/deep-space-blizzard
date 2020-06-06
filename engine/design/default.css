@@ -61,6 +61,13 @@ img {
     text-align: center;
 }
 
+/*
+article links are custom colored because purple url coloration is disgustin
+*/
+a.article {
+    color: #009adc;  
+}
+
 a.new {
     color: #b30000;
 }
