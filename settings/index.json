@@ -18,6 +18,7 @@
         "meteor station",
         "metrocenter",
         "mothership",
+        "nato",
         "neon valley",
         "neon valley underground",
 		"night stalkers",
@@ -34,6 +35,8 @@
 		"the void shard",
 		"the zone",
         "tony",
+        "united nations",
+        "un-xf",
         "voidgate"
     ],
     "namespace": {
