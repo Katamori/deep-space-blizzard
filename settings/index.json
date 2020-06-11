@@ -2,16 +2,21 @@
     "regular": [
         "index",
         "about",
+        "alien mothership",
+        "antimatter drive",
         "blizzard",
         "blank empire",
         "coffee",
         "deepvoid",
+        "electrohydraulics",
         "fort montevideo",
         "frost",
         "frostwave",
         "gold",
 		"grepnovnik group",
         "grepnovnik moles",
+        "iceland",
+        "interceptor",
         "leaf valley plaza",
 		"lord function", 
         "melyavak forest",
@@ -28,38 +33,31 @@
         "numbers station",
         "orient deep",
         "rattlesnake brewery",
+        "ricochet",
         "quartz",
-		"sanctuary",
+        "sanctuary",
+        "slingshot drive",
 		"storylines",
 		"the ancient nation",
-		"the blizzard",
+        "the blizzard",
+        "the junta",
 		"the void shard",
 		"the zone",
         "tony",
         "united nations",
         "un-xf",
+        "usa",
         "voidgate"
     ],
     "namespace": {
 		"a billion sounds": [
 			"index"
 		],
-        "alien technology": [
+        "lists": [
             "index",
-            "antimatter drive",
-			"electrohydraulics",
-            "frost",
-            "interceptor",
-            "mothership",
-            "ricochet",
-            "slingshot drive"
+            "alien technology",
+            "countries"
         ],
-        "countries": [
-			"index",
-			"iceland",
-            "the junta",
-            "usa"
-		],
 		"neon anomaly": [
 			"index",
 			"characters"
